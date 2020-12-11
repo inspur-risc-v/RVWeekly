@@ -1,0 +1,3 @@
+[submodule "RVNews"]
+	path = RVNews
+	url = ../RVNews
