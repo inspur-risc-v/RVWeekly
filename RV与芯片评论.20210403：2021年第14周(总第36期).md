@@ -233,7 +233,7 @@ RISC-V与芯片评论编辑部 - RISC-V和芯片动态周报<br />每周六发�
 
 | 语雀 | 微信公众号 | Gitee | Github | Inspur |
 | :---: | :---: | :---: | :---: | --- |
-| <br />[RISC-V和芯片动态简报](https://www.yuque.com/riscv/rvnews)<br />[riscv  rvnews](https://www.yuque.com/riscv/rvnews) | 高效服务器和存储技术国家重点实验室<br />![输入图片说明](https://images.gitee.com/uploads/images/2021/0403/095111_f45db329_5631341.png "屏幕截图.png") | [inspur-risc-v  RVWeekly](https://gitee.com/inspur-risc-v/RVWeekly) | [inspur-risc-v  RVWeekly](https://github.com/inspur-risc-v/RVWeekly) | [riscv  RVWeekly](http://open.inspur.com/riscv/RVWeekly) |
+| <br />[RISC-V和芯片动态简报](https://www.yuque.com/riscv/rvnews)<br />[riscv  rvnews](https://www.yuque.com/riscv/rvnews) | 高效服务器和存储技术国家重点实验室<br />![输入图片说明](https://images.gitee.com/uploads/images/2021/0320/164534_65fbfcf0_5631341.png "RVWeekly qr") | [inspur-risc-v  RVWeekly](https://gitee.com/inspur-risc-v/RVWeekly) | [inspur-risc-v  RVWeekly](https://github.com/inspur-risc-v/RVWeekly) | [riscv  RVWeekly](http://open.inspur.com/riscv/RVWeekly) |
 
 
 <br />
