@@ -38,7 +38,7 @@
 <a name="VoXVb"></a>
 #### 相关周报
 
-- ![image.png](https://cdn.nlark.com/yuque/0/2020/png/1541992/1599307696075-3f44fb1b-f362-4130-a254-b3e4fb6cebac.png#align=left&display=inline&height=24&margin=%5Bobject%20Object%5D&name=image.png&originHeight=84&originWidth=89&size=7408&status=done&style=none&width=25)[semi engineering](https://semiengineering.com/) Week In Review: 
+- ![输入图片说明](https://images.gitee.com/uploads/images/2021/0403/095032_5076b6d0_5631341.png "屏幕截图.png")[semi engineering](https://semiengineering.com/) Week In Review: 
    - Blog Review：
    - Design, Low Power：
    - Manufacturing, Test：
@@ -233,7 +233,7 @@ RISC-V与芯片评论编辑部 - RISC-V和芯片动态周报<br />每周六发�
 
 | 语雀 | 微信公众号 | Gitee | Github | Inspur |
 | :---: | :---: | :---: | :---: | --- |
-| <br />[RISC-V和芯片动态简报](https://www.yuque.com/riscv/rvnews)<br />[riscv  rvnews](https://www.yuque.com/riscv/rvnews) | 高效服务器和存储技术国家重点实验室<br />![image.png](https://cdn.nlark.com/yuque/0/2020/png/1541992/1608207453103-7b2eb8ee-1087-4e91-b124-0f9d394ef0bb.png#align=left&display=inline&height=139&margin=%5Bobject%20Object%5D&name=image.png&originHeight=139&originWidth=138&size=34726&status=done&style=none&width=138) | [inspur-risc-v  RVWeekly](https://gitee.com/inspur-risc-v/RVWeekly) | [inspur-risc-v  RVWeekly](https://github.com/inspur-risc-v/RVWeekly) | [riscv  RVWeekly](http://open.inspur.com/riscv/RVWeekly) |
+| <br />[RISC-V和芯片动态简报](https://www.yuque.com/riscv/rvnews)<br />[riscv  rvnews](https://www.yuque.com/riscv/rvnews) | 高效服务器和存储技术国家重点实验室<br />![输入图片说明](https://images.gitee.com/uploads/images/2021/0403/095111_f45db329_5631341.png "屏幕截图.png") | [inspur-risc-v  RVWeekly](https://gitee.com/inspur-risc-v/RVWeekly) | [inspur-risc-v  RVWeekly](https://github.com/inspur-risc-v/RVWeekly) | [riscv  RVWeekly](http://open.inspur.com/riscv/RVWeekly) |
 
 
 <br />
